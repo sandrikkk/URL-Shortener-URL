@@ -83,7 +83,7 @@ OUTPUT GET REQUEST:
 | 1. | `POST` | `/api/short-url/` | `http://127.0.0.1:8000/api/short-url/` |
 | 2. | `GET`  | `/api/short-url/<id>/` | `http://127.0.0.1:8000/api/short-url/<id>/` |
 | 3. | `DELETE`  | `/api/short-url/<id>/` | `http://127.0.0.1:8000/api/short-url/<id>` |
-| 4. | `DELETE`  | `/api/short-url/<id>/` | `http://127.0.0.1:8000/api/short-url/<id>` |
+| 4. | `GET,DELETE`  | `/api/short-url/<id>/premium/` | `http://127.0.0.1:8000/api/short-url/premium/` |
 
 
 <br>
